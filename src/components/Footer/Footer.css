@@ -1,0 +1,30 @@
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+  
+footer .footer-links {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+  
+footer .footer-links div {
+    flex: 1;
+}
+  
+footer .footer-links h4 {
+    margin-bottom: 10px;
+}
+  
+footer .footer-links ul {
+    list-style: none;
+    padding: 0;
+}
+  
+footer .footer-links ul li {
+    margin-bottom: 5px;
+}
+  
